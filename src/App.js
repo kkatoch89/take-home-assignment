@@ -33,7 +33,6 @@ function App() {
 
 	return (
 		<div className="App">
-			{console.log(transformType)}
 			<header>
 				<h1>Career Lab | Take-Home Assignment</h1>
 			</header>
